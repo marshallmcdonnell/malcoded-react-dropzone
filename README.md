@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is my working tutorial of https://malcoded.com/posts/react-file-upload/#how-to-build-a-file-dropzone-component.
+
+Saving it so I can modify later.
+
 ## Available Scripts
 
 In the project directory, you can run:
